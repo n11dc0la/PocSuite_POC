@@ -2,7 +2,6 @@ from collections import OrderedDict
 from pocsuite3.api import Output, POCBase, POC_CATEGORY, register_poc, requests, VUL_TYPE
 from pocsuite3.api import OptString
 import requests
-import argparse
 from urllib.parse import urljoin
 
 
